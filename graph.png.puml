@@ -1,0 +1,7 @@
+@startu  ml
+commit_0 : (2024-11-02 09:39:28, artemroy19)
+commit_1 : (2024-11-02 09:35:47, artemroy19)
+commit_0 --> commit_1
+commit_2 : (2024-11-02 09:34:27, artemroy19)
+commit_1 --> commit_2
+@enduml

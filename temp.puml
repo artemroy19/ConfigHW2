@@ -1,0 +1,5 @@
+@startuml
+commit_0 : (2024-10-08 09:56:19, artemroy19)
+commit_1 : (2024-10-08 09:53:46, artemroy19)
+commit_0 --> commit_1
+@enduml
